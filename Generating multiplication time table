@@ -9,6 +9,6 @@ int main () {
    <<setw (3) <<j * i <<" ";
         }
         cout << endl;
-    } 
+    }
     return 0;
 }
